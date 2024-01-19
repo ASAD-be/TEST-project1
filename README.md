@@ -1,11 +1,8 @@
-<h1 align="center">Hi 👋, I'm Asadbek Qarjaubayev</h1>
-<h3 align="center">I am Qusality Assurance enginerr</h3>
+<h1 align="center">Portfolio</h1>
 
-- 🔭в настоящее время я работаю над [n-cofee-relesae1](https://n-coffee.com.ua/index.php?route=common/home)
 
-- 🌱 я сейчас учусь **Selenium+python**
-
-- 📫 Как связаться со мной **asadbekqarjau@gmail.com**
+- **Обо мне**
+- 📫 Pезюме **asadbekqarjau@gmail.com**
 
 - 📄 Знать о моем опыте [https://n-coffee.com.ua/index.php?route=common/home](https://n-coffee.com.ua/index.php?route=common/home)
 
