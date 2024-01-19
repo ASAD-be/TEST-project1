@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Asadbek</h1>
+<h1 align="center">Hi 👋, I'm Asadbek Qarjaubayev</h1>
 <h3 align="center">I am Qusality Assurance enginerr</h3>
 
 - 🔭в настоящее время я работаю над [n-cofee-relesae1](https://n-coffee.com.ua/index.php?route=common/home)
